@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FlightBooking
+comment1.params=
+comment1.target=void\ mainpage()
+comment2.params=str
+comment2.target=boolean\ checkIATAcode(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ enterdeparr(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ enterdate()
+comment5.params=d\ m\ y
+comment5.target=boolean\ checkdate(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ checkcontinue()
+comment7.params=
+comment7.target=int\ passengers()
+numComments=8

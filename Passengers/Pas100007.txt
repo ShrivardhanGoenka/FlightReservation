@@ -1,0 +1,15 @@
+Date: 3-6-2021
+Source City: New Delhi 
+Arrival City: Mumbai    
+Is direct: True
+Flight Number: DF101
+
+Departure Time: 05:00
+Arrival Time: 07:00
+Total Cost: Rs8000
+Number of passengers: 2
+
+Details of Passengers:
+	Name		Age	Seat No.	Mobile Number	Gender
+Shrivardhan		17	30A		9830376021	Male
+Nityanshi Goenka	12	30B		9830776021	Female

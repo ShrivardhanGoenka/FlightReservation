@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Passengers
+comment1.params=pas
+comment1.target=java.lang.String[][]\ enterdetails(int)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment3.params=
+comment3.target=java.lang.String\ gender()
+comment4.params=
+comment4.target=int\ getage()
+comment5.params=
+comment5.target=java.lang.String\ mobno()
+numComments=6
